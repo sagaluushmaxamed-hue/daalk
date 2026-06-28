@@ -1,0 +1,35 @@
+body{
+    background-color: rgba(42, 124, 165, 0.356);
+}
+.tare{
+    border: 3px solid rgb(7, 7, 7);
+    border-radius: 100PX;
+    width: max-content;
+    box-sizing: content-box;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    margin-left: 250px;
+    margin-right: 87px;
+    width: 50%;
+    height: 100%;
+    padding: 100px;
+}
+.tare h3{
+    text-align: center;
+    color: black;
+}
+.tare p{
+    color: black;
+
+}
+.tare a{
+    text-decoration: none;
+    bottom: 80px;
+    border: 2px;
+    border-radius: 20%;
+    color: rgb(223, 174, 109);
+}
+.tare{
+    background-color: rgb(106, 166, 176);
+}
+

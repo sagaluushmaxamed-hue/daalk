@@ -1,0 +1,26 @@
+main{
+    margin-left: 198px;
+    padding: 18px 22px 24px;
+    border-radius: 12px;
+    min-height: 320px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    margin-right: 60px;
+    border: 2px solid black;
+    box-shadow: 5px 5px 5px black;
+    background-color: #fadce8;
+    color: #84385c;
+}
+body{
+    background-color: #ab8caf;
+}
+main h1{
+    margin-top: 0;
+    font-size: 2rem;
+    color:rgb(15, 14, 14)
+}
+main p{
+    line-height: 1.7;
+    margin-bottom: 14px;
+    color:rgb(15, 14, 14)
+}

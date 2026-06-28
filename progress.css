@@ -1,0 +1,52 @@
+body{
+    background-color: #e36e6e;
+}
+.profile-box {
+    background-color: #e36e6e;
+
+    border: 3px solid red;
+
+    border-radius: 60px;
+
+    padding: 20px;
+
+
+    margin-top: 20px;
+    margin-bottom: 10px;
+    margin-left: 250px;
+    margin-right: 87px;
+    width: 50%;}
+    .profile-box h2 {
+    color: black;
+    text-align: center;
+    margin-bottom: 20px;
+    }
+    .profile-box label {
+    color: black;
+    font-weight: bold;
+    padding: 30px;
+    }
+    .profile-box select, .profile-box input[type="text"], .profile-box input[type="email"], .profile-box input[type="password"] 
+    {
+    border: 1px solid #f4ebeb;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 20px;
+    width: 90%;
+    }
+    .profile-box button {
+    background-color: #4CAF50;  
+    }
+    .profile-box button:hover {
+    background-color: #9dbe9f;
+    }
+    .profile-box select :hover {
+    color: #32d33d;
+    }
+    .profile-box input[type="submit"] {
+    background-color: #4CAF50; }
+    .profile-box{
+        background-color: #e36e6e;
+        box-shadow: 5px 5px 5px black;
+    } 
+    

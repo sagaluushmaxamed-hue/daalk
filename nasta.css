@@ -1,0 +1,83 @@
+.lovely{
+    background-color: #291111;
+    margin :40px;
+    padding: 15px;
+    color: white;
+    text-align: center;
+    border: 3px solid black;
+    border-radius: 50px;
+    box-shadow: 10px 10px 10px black;
+    text-shadow: 4px 4px 4px black;
+}
+#nuura{
+    background-color: #ede7e7;
+    margin-top: 50px;
+    margin-bottom: 10px;
+    padding: 15px;
+    margin-left: 50px;
+    margin-right: 50px;
+    color: white;
+    text-align: center;
+    border: 3px solid black;
+    border-radius: 100px;
+    border-spacing: 0cap;
+}
+
+nav{
+    float: left;
+    width: 100px;
+    background-color: #9f879a;
+    padding: 10px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 60px;
+    border: 2px solid black;
+    border-radius: 70px;
+    box-shadow: 5px 5px 5px black;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: bold;
+    font-family: Arial, sans-serif;
+}
+nav a{
+    text-decoration: none;
+    color: black;
+    display: block;
+    margin: 10px 5px 10px 10px;
+    padding: 8px 12px;
+    border-radius: 10px;
+    transition: background-color 0.2s ease, color 0.2s ease, transform 0.2s ease;
+    box-sizing:content-box
+}
+nav a:hover{
+    background-color: #585b4c;
+    color: white;
+    transform: translateX(2px);
+}
+nav a:active{
+    background-color: #585b4c;
+    color: white;
+    transform: translateX(2px);
+}
+nav a:focus{
+    background-color: #585b4c;
+    color: white;
+    transform: translateX(2px);}
+    nav a:visited{
+        background-color: #585b4c;}
+        nav a :target{
+            background-color: #585b4c;
+            color: white;
+            transform: translateX(2px);
+        }
+     footer{
+        background-color: #474046;
+        color: white;
+        text-align: center;
+        padding: 10px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        border: 2px solid black;
+        border-radius: 20px;
+        box-shadow: 5px 5px 5px black; }
+    
